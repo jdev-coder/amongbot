@@ -1,0 +1,40 @@
+button {
+  border-radius: 5px;
+  background-color:rgb(30, 148, 221);
+  border-color: rgb(30, 148, 221);
+  color: white;
+}
+.text1{
+position:absolute;
+left:35%;
+top: 25%;
+color: white;
+}
+.text2{
+position:absolute;
+left:42%;
+top: 30%;
+color: white;
+}
+.idk {
+    opacity: 65%;
+    position: absolute;
+    background-image: url('https://images.pexels.com/videos/3045163/free-video-3045163.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    height: 35px;
+    top:0%;
+    width: 100%;
+}
+
+.button1 {
+  position: absolute;
+  left: 50%;
+}
+
+.imglol {
+  width:15%;
+  length:15%;
+  border-radius:15px;
+  position: absolute;
+  left:15%;
+  bottom: 50%;
+}
